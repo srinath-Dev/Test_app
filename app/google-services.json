@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909236743707",
+    "firebase_url": "https://tesap-f1930.firebaseio.com",
+    "project_id": "tesap-f1930",
+    "storage_bucket": "tesap-f1930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909236743707:android:96bda916b827c17a3652be",
+        "android_client_info": {
+          "package_name": "com.aborteddevelopers.tes_ap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909236743707-mtcksoreanigfsu6m74co1rk6nfhmksd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aborteddevelopers.tes_ap",
+            "certificate_hash": "2113b78671fb2a943af44709cc014e2192a59553"
+          }
+        },
+        {
+          "client_id": "909236743707-re0fd740jlq6ldp2ufp71oqb4fhdmg2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgPmm9xAK5jW8Zi2zTUmiC1jHuQhWPF-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909236743707-re0fd740jlq6ldp2ufp71oqb4fhdmg2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
